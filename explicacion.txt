@@ -1,0 +1,3 @@
+#Se creará un archivo tipo .gitignore
+#Donde se pondran las siguientes lineas
+*.txt
